@@ -157,11 +157,12 @@ div h2 {
 
 
 .product-container {
-    
+    display: flex;
+
 }
 
 .product {
-  display: flex;
+
   align-items: center;
   gap: 15px;
   background: #f4f4f4;
